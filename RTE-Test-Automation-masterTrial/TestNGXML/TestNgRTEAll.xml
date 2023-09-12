@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RTE All" parallel="false">
+
+
+    <groups>
+        <run>
+            <include name="RTEAll" />
+        </run>
+    </groups>
+
+   <!--- <parameter name="JIRA TICKET" value="OAT-2" />  -->
+    <test name="RTE ALL Test Cases" thread-count="1" preserve-order="true">
+        <classes>
+            <class name="TestCases.RTETests.RTEAPIAndUITests.RTEAPISportsPagesTests.RTEAPISportsResultsTests"/>
+            <class name="TestCases.RTETests.RTEAPIAndUITests.RTEAPIEndpointsTests.RTEAPIEndpointsTests"/>
+
+        </classes>
+    </test>
+
+</suite>
+
+

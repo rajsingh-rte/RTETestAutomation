@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sample">
+    <listeners>
+        <listener class-name="Engine.listeners.TestListener" />
+    </listeners>
+
+    <parameter name="JIRA TICKET" value="OAT-1" />
+
+    <test name="TestNgRTEAPIEndpoints" preserve-order="true">
+        <groups>
+            <run>
+                <include name="RTEAPIEndpoints" />
+            </run>
+              </groups>
+              <classes>
+                  <class name="TestCases.RTETests.RTEAPIAndUITests.RTEAPIEndpointsTests.RTEAPIEndpointsTests"/>
+              </classes>
+          </test>
+      </suite>
+
+

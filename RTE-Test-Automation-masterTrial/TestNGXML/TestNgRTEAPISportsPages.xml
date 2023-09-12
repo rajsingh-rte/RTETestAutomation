@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sample">
+    <listeners>
+        <listener class-name="Engine.listeners.TestListener" />
+    </listeners>
+
+    <parameter name="JIRA TICKET" value="OAT-2" />
+
+    <test name="TestNgRTEAPISportsPages" preserve-order="true">
+        <groups>
+            <run>
+                <include name="RTEAPISportsResults" />
+                <include name="RTEAPISportsPages" />
+            </run>
+              </groups>
+              <classes>
+                  <class name="TestCases.RTETests.RTEAPIAndUITests.RTEAPISportsPagesTests.RTEAPISportsResultsTests"/>
+              </classes>
+          </test>
+      </suite>
+
+

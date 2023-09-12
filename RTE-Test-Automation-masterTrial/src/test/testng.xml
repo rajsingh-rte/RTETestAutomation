@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNG Listener Example">
+    <!-- These parameters will be passed to every test in this suite -->
+    <listeners>
+        <listener class-name="Engine.listeners.TestListener" />
+    </listeners>
+    <parameter name="testRailTestRunId" value="1434" />
+    <test name="Login Tests" preserve-order="true">
+
+        <classes>
+            <class name="login.LoginTest"/>
+        </classes>
+    </test>
+</suite>

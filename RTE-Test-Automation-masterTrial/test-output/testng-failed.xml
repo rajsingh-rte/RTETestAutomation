@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test thread-count="5" name="functional-testing(failed)">
+    <classes>
+      <class name="TestCases.SBSA.CreateTests">
+        <methods>
+          <include name="LinkLegalEntityToFacilityAndExposure"/>
+          <include name="LinkLedToAnAsset"/>
+          <include name="setUpDriver"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- TestCases.SBSA.CreateTests -->
+    </classes>
+  </test> <!-- functional-testing(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

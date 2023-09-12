@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="183706" started-at="2020-11-30T17:53:54Z" finished-at="2020-11-30T17:56:57Z">
+    <groups>
+    </groups>
+    <test name="functional-testing" duration-ms="183706" started-at="2020-11-30T17:53:54Z" finished-at="2020-11-30T17:56:57Z">
+      <class name="TestCases.SBSA.CreateTests">
+        <test-method status="PASS" signature="setUpDriver()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="setUpDriver" is-config="true" duration-ms="6776" started-at="2020-11-30T17:53:54Z" finished-at="2020-11-30T17:54:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriver -->
+        <test-method status="PASS" signature="AddCapitalAccumulatorInvestmentFinancialAsset()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="AddCapitalAccumulatorInvestmentFinancialAsset" duration-ms="7172" started-at="2020-11-30T17:54:00Z" finished-at="2020-11-30T17:54:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddCapitalAccumulatorInvestmentFinancialAsset -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="closeBrowser" is-config="true" duration-ms="726" started-at="2020-11-30T17:54:08Z" finished-at="2020-11-30T17:54:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUpDriver()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="setUpDriver" is-config="true" duration-ms="5986" started-at="2020-11-30T17:54:08Z" finished-at="2020-11-30T17:54:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriver -->
+        <test-method status="PASS" signature="AddCollateralSecurityInterestCashAndCashEquivalent()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="AddCollateralSecurityInterestCashAndCashEquivalent" duration-ms="7881" started-at="2020-11-30T17:54:14Z" finished-at="2020-11-30T17:54:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddCollateralSecurityInterestCashAndCashEquivalent -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="closeBrowser" is-config="true" duration-ms="731" started-at="2020-11-30T17:54:22Z" finished-at="2020-11-30T17:54:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUpDriver()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="setUpDriver" is-config="true" duration-ms="6213" started-at="2020-11-30T17:54:23Z" finished-at="2020-11-30T17:54:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriver -->
+        <test-method status="PASS" signature="AddDealGenericDeal()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="AddDealGenericDeal" duration-ms="9154" started-at="2020-11-30T17:54:29Z" finished-at="2020-11-30T17:54:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddDealGenericDeal -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="closeBrowser" is-config="true" duration-ms="719" started-at="2020-11-30T17:54:38Z" finished-at="2020-11-30T17:54:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUpDriver()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="setUpDriver" is-config="true" duration-ms="6231" started-at="2020-11-30T17:54:39Z" finished-at="2020-11-30T17:54:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriver -->
+        <test-method status="PASS" signature="AddLegalEntityPersonal()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="AddLegalEntityPersonal" duration-ms="10195" started-at="2020-11-30T17:54:45Z" finished-at="2020-11-30T17:54:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddLegalEntityPersonal -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="closeBrowser" is-config="true" duration-ms="721" started-at="2020-11-30T17:54:55Z" finished-at="2020-11-30T17:54:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUpDriver()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="setUpDriver" is-config="true" duration-ms="6062" started-at="2020-11-30T17:54:56Z" finished-at="2020-11-30T17:55:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriver -->
+        <test-method status="PASS" signature="AddRestrictedProductAndTransactionGeneric()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="AddRestrictedProductAndTransactionGeneric" duration-ms="8188" started-at="2020-11-30T17:55:02Z" finished-at="2020-11-30T17:55:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddRestrictedProductAndTransactionGeneric -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="closeBrowser" is-config="true" duration-ms="736" started-at="2020-11-30T17:55:10Z" finished-at="2020-11-30T17:55:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUpDriver()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="setUpDriver" is-config="true" duration-ms="6301" started-at="2020-11-30T17:55:11Z" finished-at="2020-11-30T17:55:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriver -->
+        <test-method status="PASS" signature="CrossEntityLinks()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="CrossEntityLinks" duration-ms="15093" started-at="2020-11-30T17:55:17Z" finished-at="2020-11-30T17:55:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CrossEntityLinks -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="closeBrowser" is-config="true" duration-ms="711" started-at="2020-11-30T17:55:33Z" finished-at="2020-11-30T17:55:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUpDriver()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="setUpDriver" is-config="true" duration-ms="6113" started-at="2020-11-30T17:55:33Z" finished-at="2020-11-30T17:55:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriver -->
+        <test-method status="PASS" signature="LinkLedToAnAsset()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="LinkLedToAnAsset" duration-ms="14898" started-at="2020-11-30T17:55:39Z" finished-at="2020-11-30T17:55:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LinkLedToAnAsset -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="closeBrowser" is-config="true" duration-ms="731" started-at="2020-11-30T17:55:54Z" finished-at="2020-11-30T17:55:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUpDriver()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="setUpDriver" is-config="true" duration-ms="6327" started-at="2020-11-30T17:55:55Z" finished-at="2020-11-30T17:56:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriver -->
+        <test-method status="PASS" signature="LinkLedToFacilityExposure()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="LinkLedToFacilityExposure" duration-ms="13970" started-at="2020-11-30T17:56:01Z" finished-at="2020-11-30T17:56:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LinkLedToFacilityExposure -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="closeBrowser" is-config="true" duration-ms="733" started-at="2020-11-30T17:56:15Z" finished-at="2020-11-30T17:56:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUpDriver()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="setUpDriver" is-config="true" duration-ms="6162" started-at="2020-11-30T17:56:16Z" finished-at="2020-11-30T17:56:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriver -->
+        <test-method status="PASS" signature="LinkLegalEntityToFacilityAndExposure()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="LinkLegalEntityToFacilityAndExposure" duration-ms="16510" started-at="2020-11-30T17:56:22Z" finished-at="2020-11-30T17:56:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LinkLegalEntityToFacilityAndExposure -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="closeBrowser" is-config="true" duration-ms="752" started-at="2020-11-30T17:56:39Z" finished-at="2020-11-30T17:56:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setUpDriver()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="setUpDriver" is-config="true" duration-ms="6196" started-at="2020-11-30T17:56:39Z" finished-at="2020-11-30T17:56:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriver -->
+        <test-method status="PASS" signature="LinkLegalEntityToLED()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="LinkLegalEntityToLED" duration-ms="10945" started-at="2020-11-30T17:56:46Z" finished-at="2020-11-30T17:56:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LinkLegalEntityToLED -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestCases.SBSA.CreateTests@6ea12c19]" name="closeBrowser" is-config="true" duration-ms="736" started-at="2020-11-30T17:56:57Z" finished-at="2020-11-30T17:56:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestCases.SBSA.CreateTests -->
+    </test> <!-- functional-testing -->
+  </suite> <!-- Default Suite -->
+</testng-results>
